@@ -1,0 +1,66 @@
+{
+  "Beaches": [
+    {
+      "id": 0,
+      "name": "Matira Beach",
+      "country": "Bora Bora",
+      "web": "https://www.boraboraislandguide.com/matira-beach.html"
+    }
+  ]
+},
+{
+  "id": 1,
+  "name": "Grace Bay Beach",
+  "country": "Turks and Caicos",
+  "web": "https://www.visittci.com/providenciales/grace-bay-beach"
+}
+]
+},
+{
+"id": 2,
+"name": "Camps Bay Beach",
+"country": "South Africa",
+"web": "http://www.campsbayinfo.com/"
+}
+]
+},
+{
+"id": 3,
+"name": "Railay Beach",
+"country": "Thailand",
+"web": "https://www.tourismthailand.org/Attraction/railay-beach"
+}
+]
+},
+{
+"id": 4,
+"name": "Whitehaven Beach",
+"country": "Australia",
+"web": "https://www.queensland.com/au/en/things-to-do/attractions/p-56b25dc07b935fbe730dc52c-whitehaven-beach"
+}
+]
+},
+{
+"id": 5,
+"name": "Miami Beach",
+"country": "USA",
+"web": "https://www.visitflorida.com/en-us/cities/miami-beach.html"
+}
+]
+},
+{
+"id": 6,
+"name": "Shipwreck Beach",
+"country": "Greece",
+"web": "https://www.navagiobeach.gr/"
+}
+]
+},
+{
+"id": 7,
+"name": "Pink Sands Beach",
+"country": "Bahamas",
+"web": "https://www.harbourislandguide.com/pink-sand-beach.htm"
+}
+]
+},
